@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer_BuisnessLayer", "DataLayer_BuisnessLayer\DataLayer_BuisnessLayer.csproj", "{77B588C6-9E13-49CE-AF95-8AB4EA656808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandMenu", "CommandMenu\CommandMenu.csproj", "{343F98D7-9411-4747-95D4-36FAC4B18A3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3A1628C4-13E6-4A6B-A624-716485D37ACC}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B588C6-9E13-49CE-AF95-8AB4EA656808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B588C6-9E13-49CE-AF95-8AB4EA656808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B588C6-9E13-49CE-AF95-8AB4EA656808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B588C6-9E13-49CE-AF95-8AB4EA656808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343F98D7-9411-4747-95D4-36FAC4B18A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343F98D7-9411-4747-95D4-36FAC4B18A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343F98D7-9411-4747-95D4-36FAC4B18A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343F98D7-9411-4747-95D4-36FAC4B18A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5859F4F1-9CF9-4AEC-96AE-49C0DAA6648E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+ //server=localhost;user=root;database=testc#;password=8616;
+ //server=127.0.0.1;port=3306;username=root;password=root;database=lab_subd

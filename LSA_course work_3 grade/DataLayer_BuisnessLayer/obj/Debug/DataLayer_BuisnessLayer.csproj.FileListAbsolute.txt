@@ -1,0 +1,59 @@
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\DataLayer_BuisnessLayer.dll
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\DataLayer_BuisnessLayer.pdb
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\MySql.Data.dll
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\ZstdNet.dll
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\System.Memory.dll
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\System.Buffers.dll
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\MySql.Data.xml
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.csproj.CopyComplete
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.dll
+C:\Users\HYPERPC\source\repos\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.pdb
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\DataLayer_BuisnessLayer.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\DataLayer_BuisnessLayer.pdb
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\MySql.Data.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\ZstdNet.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\System.Memory.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\System.Buffers.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\MySql.Data.xml
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.csproj.CopyComplete
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.dll
+C:\Users\абв\Documents\GitHub\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.pdb
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\DataLayer_BuisnessLayer.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\DataLayer_BuisnessLayer.pdb
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\MySql.Data.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\Google.Protobuf.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\ZstdNet.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\Ubiety.Dns.Core.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\System.Memory.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\System.Buffers.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\K4os.Compression.LZ4.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\K4os.Hash.xxHash.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\bin\Debug\MySql.Data.xml
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.csproj.AssemblyReference.cache
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.csproj.CopyComplete
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.dll
+D:\GitHub Repos\Project_Sharp_2\CuurseWork\DataLayer_BuisnessLayer\obj\Debug\DataLayer_BuisnessLayer.pdb
