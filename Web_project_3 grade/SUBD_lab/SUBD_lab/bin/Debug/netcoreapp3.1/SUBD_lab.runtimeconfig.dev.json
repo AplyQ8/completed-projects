@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HYPERPC\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HYPERPC\\.nuget\\packages"
+    ]
+  }
+}
